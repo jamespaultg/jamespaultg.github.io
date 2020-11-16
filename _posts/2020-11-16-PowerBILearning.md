@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Power BI Learning
+published: true
 ---
 ## Power BI Learning
 
